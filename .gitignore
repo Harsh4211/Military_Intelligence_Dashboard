@@ -1,0 +1,22 @@
+# Large data files
+data/globalterrorism.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Models (optional - uncomment if you want to version control)
+# models/
